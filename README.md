@@ -26,7 +26,7 @@ Optimised for **maximum recall** — a missed injury is always worse than an unn
 ## Setup
 
 ```bash
-git clone https://github.com/<your-username>/football-injury-prediction.git
+git clone https://github.com/adlut/football-injury-prediction.git
 cd football-injury-prediction
 pip install -r requirements.txt
 streamlit run app.py
